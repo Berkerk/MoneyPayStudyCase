@@ -5,8 +5,6 @@ import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
-
-
 import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Date;
